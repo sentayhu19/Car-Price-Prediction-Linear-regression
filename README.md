@@ -1,7 +1,7 @@
 # Car-Price-Prediction-Linear-regression
 
 > This project is about Predicting the price of car using Linear-regression
-> In this proj Multivariate Regression is used to predict one outcome value from all the other col
+> In this proj Multivariate Regression is used to predict more than one outcome variable 
 
 
 ## Built With
