@@ -36,7 +36,7 @@ git clone https://github.com/sentayhu19/Car-Price-Prediction-Linear-regression <
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sentayhu19/Portfolio-setup-and-mobile-version-skeleton/issues).
+Feel free to check the [issues page](https://github.com/sentayhu19/Car-Price-Prediction-Linear-regression/issues).
 
 ## Show your support
 
