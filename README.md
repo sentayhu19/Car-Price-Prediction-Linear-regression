@@ -7,6 +7,9 @@
 ## Built With
 
 -Python ,NumPay,Pandas, sklearn
+-NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more. Interoperable. 
+-pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
+-sklearn Simple and efficient tools for predictive data analysis · Accessible to everybody, and reusable in various contexts · Built on NumPy, SciPy, and matplotlib 
 
 ### Prerequisites
 
