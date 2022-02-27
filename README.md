@@ -20,7 +20,7 @@ git clone https://github.com/sentayhu19/Car-Price-Prediction-Linear-regression <
 
 ## Getting packages
   
--Run the m.java file 
+-Run & "virtual env path here Scripts/python.exe" "full path to car-price-prediction.py"
 
 ## Authors
 
