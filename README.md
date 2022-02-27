@@ -23,7 +23,7 @@ git clone https://github.com/sentayhu19/Car-Price-Prediction-Linear-regression <
   - pip install numpy
   - pip install pandas 
   - pip install sklearn
--Run & "virtual env path here Scripts/python.exe" "full path to car-price-prediction.py"
+  - Run & "virtual env path here Scripts/python.exe" "full path to car-price-prediction.py"
 
 ## Authors
 
